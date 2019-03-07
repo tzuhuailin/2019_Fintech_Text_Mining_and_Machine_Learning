@@ -6,3 +6,4 @@ R06723010 財金所碩二 林慈懷
 ## Progress
 
 ### Week1
+* HW0 finished
