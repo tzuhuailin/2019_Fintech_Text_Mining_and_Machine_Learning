@@ -1,6 +1,7 @@
 # HW 0
 
 ### Level 1 draw flowchart - finished
+* Flowchart for liberty times crawler: Make a list of date string in the date range we want
 
 ### Level 2 Rerun and add comments - finished
 * Rerun the program
