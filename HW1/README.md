@@ -6,5 +6,5 @@
 * Direct to the webside (finished)
 * Adjust the start date to the earliest year (finished)
 * Update adjustment (finished)
-* download .csv (not yet)
-* shown in dataframe
+* download .csv (目前先下載下來再用電腦開，待改)
+* shown in dataframe (finished)
