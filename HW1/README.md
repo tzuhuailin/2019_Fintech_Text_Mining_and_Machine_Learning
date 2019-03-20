@@ -3,4 +3,4 @@
 ## ETF crawler
 
 ## Financial index crawler
-[Financial index crawler](Financial index crawler.ipynb)
+[Financial index crawler](HW1/Financial index crawler.ipynb)
