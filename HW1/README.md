@@ -3,9 +3,9 @@
 ## ETF crawler
 
 ## Financial index crawler - US Non-farm Payrolls
+ * Data Sourse: https://beta.bls.gov/dataViewer/view/timeseries/CES0000000001
  * [Financial index crawler - code](https://github.com/tzuhuailin/2019_Fintech_Text_Mining_and_Machine_Learning/blob/master/HW1/Financial%20index%20crawler.ipynb)
  * [Financial index crawler - flowchart](https://github.com/tzuhuailin/2019_Fintech_Text_Mining_and_Machine_Learning/blob/master/HW1/Financial%20index%20crawler_Flowchart.pdf)
- * Data Sourse: https://beta.bls.gov/dataViewer/view/timeseries/CES0000000001
  * Steps:
  1. Use requests and beautifulsoup package to find the min and max year of the existing database
  2. Use requests.post() function to ask for the data
