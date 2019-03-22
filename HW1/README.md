@@ -27,3 +27,7 @@
    2. Use requests.post() function to ask for the data
    3. Use cvs reader and IO package to turn the requested data as cvs document
    4. Use panda package to turn the document as dataframe and show the first 20 rows of the data
+ * 可能遇到的錯誤
+   1. BLS Beta Labs的資料下載並非直接連結到檔案網址，而是送出一個form，因此不能以request.get()抓資料，而要以request.post()並輸入form所要求的資訊(selectedSeriesIds、startYear和endYear)
+   2. 所送出的form當中資料可及的startYear與endYear需另外用requests和beautifulsoup從下拉式表單爬
+   3. 前一步驟爬下來的年份為String，記得轉成數字格式才能做比較
