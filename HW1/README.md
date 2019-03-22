@@ -1,6 +1,6 @@
 # HW1
 
-## ETF crawler
+## ETF crawler - Technology Equity ETF
  * 使用的套件：requests
  * 原因：Requests是用Python語言編寫，基於urllib，採用Apache2 Licensed開源協議的HTTP庫。它比urllib更加方便，可以節約我們大量的工作，完全滿足      HTTP測試需求。Requests的哲學是以PEP20為中心開發的，所以它比urllib更加Pythoner。且支持Python3。
  * 流程
