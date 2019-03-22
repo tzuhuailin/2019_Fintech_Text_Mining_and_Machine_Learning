@@ -16,9 +16,7 @@
    3. ImportError -> 確認安裝每一個所需模組
    4. dataframe的合併使用join會使得後面的key值若沒有出現在第一行的key則不會出現 -> 使用merge
    5. merge合併預設使用inner也就是兩邊都有的key才會保留 -> 使用how='outer'
-
-原文網址：https://kknews.cc/zh-tw/other/5m6lb82.html
-
+   
 ## Financial index crawler - US Non-farm Payrolls
  * Data Sourse: https://beta.bls.gov/dataViewer/view/timeseries/CES0000000001
  * [Financial index crawler - code](https://github.com/tzuhuailin/2019_Fintech_Text_Mining_and_Machine_Learning/blob/master/HW1/Financial%20Index%20crawler%20new_US%20Non-farm%20Payrolls.ipynb)
