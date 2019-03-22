@@ -16,6 +16,7 @@
    3. ImportError -> 確認安裝每一個所需模組
    4. dataframe的合併使用join會使得後面的key值若沒有出現在第一行的key則不會出現 -> 使用merge
    5. merge合併預設使用inner也就是兩邊都有的key才會保留 -> 使用how='outer'
+   6. 抓下來的資料並沒有照時間順序 -> 排序dataframe
    
 ## Financial index crawler - US Non-farm Payrolls
  * Data Sourse: https://beta.bls.gov/dataViewer/view/timeseries/CES0000000001
