@@ -8,6 +8,20 @@
 4. 將 TDM 轉成 Co-Occurrence Matrix。
 ## 資料視覺化
 5. 繪製出各類別之間的共現圖，例如：嫌疑犯和各犯罪行為之間的共現圖。
+----
+## EDA分析流程範例
+1. 統計各 ID 有多少則消息。Comparison (類別 x 數值)
+2. 依照不同時間週期來比較各 ID 所回應的消息數量。Composition (類別 x 數量)
+3. 以 ID 來合併每則消息 (思考時間要如何納入？以月為單位？)。
+4. 透過jieba將每則訊息的單詞擷取出來。
+a. POS: 單詞可對應到【詞性】。
+b. NER: 單詞可對應到【自定義類別】，例如人、事、時、地、物、組織...等。
+5. 將所有單詞進行聯集；(只挑有意義的 NER or POS，省略不帶意義的單詞)。
+6. 可使 ID 和各聯集單詞成為一個稀疏矩陣。
+7. 將稀疏矩陣重建為 co-occurrence matrix。
+8. 就可以畫出【共現圖】與【熱點圖】
+   + 共現圖：https://pythondata.com/text-analytics-visualization/
+   + 熱點圖：https://data-flair.training/blogs/python-heatmap-word-cloud/
 
 ## Text Minging
 1. 關鍵文件預處理
@@ -23,17 +37,3 @@
 2. 清洗資料
 3. 特徵擷取
 4. 資料視覺化
-
-## EDA分析流程範例
-1. 統計各 ID 有多少則消息。Comparison (類別 x 數值)
-2. 依照不同時間週期來比較各 ID 所回應的消息數量。Composition (類別 x 數量)
-3. 以 ID 來合併每則消息 (思考時間要如何納入？以月為單位？)。
-4. 透過jieba將每則訊息的單詞擷取出來。
-a. POS: 單詞可對應到【詞性】。
-b. NER: 單詞可對應到【自定義類別】，例如人、事、時、地、物、組織...等。
-5. 將所有單詞進行聯集；(只挑有意義的 NER or POS，省略不帶意義的單詞)。
-6. 可使 ID 和各聯集單詞成為一個稀疏矩陣。
-7. 將稀疏矩陣重建為 co-occurrence matrix。
-8. 就可以畫出【共現圖】與【熱點圖】
-   + 共現圖：https://pythondata.com/text-analytics-visualization/
-   + 熱點圖：https://data-flair.training/blogs/python-heatmap-word-cloud/
