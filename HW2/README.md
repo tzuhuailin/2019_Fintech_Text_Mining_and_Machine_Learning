@@ -12,12 +12,8 @@
 2. 關鍵字抽取
 3. 關鍵句抽取
 4. 主題抽取
-5. 監督式文字探勘
-
-    *監督式(Supervised)的統計學習，給定資料，透過模型與對應關係的建構，得到可以預期或是有預測能力的特定資料輸出
-6. 非監督式文字探勘
-
-    *非監督式(Unsupervised)的統計學習，給定資料，透過資料處理與聚合讓資料替自己說話，對於資料輸出的情況無法預測，不可能在事前因為對過往模型的熟悉而有相關的預測能力，資料最後輸出的型態完全取決於目前資料自身的特性與型態，我們只是透過特定的邏輯與方法，來呈現資料自身原來的樣貌
+5. 監督式文字探勘：給定資料，透過模型與對應關係的建構，得到可以預期或是有預測能力的特定資料輸出
+6. 非監督式文字探勘：給定資料，透過資料處理與聚合讓資料替自己說話，對於資料輸出的情況無法預測，不可能在事前因為對過往模型的熟悉而有相關的預測能力，資料最後輸出的型態完全取決於目前資料自身的特性與型態，我們只是透過特定的邏輯與方法，來呈現資料自身原來的樣貌
 7. 相關性結論
 
 ## 探索式資料分析(Exploratory Data Abalysis, EDA)
@@ -37,5 +33,5 @@ b. NER: 單詞可對應到【自定義類別】，例如人、事、時、地、
 6. 可使 ID 和各聯集單詞成為一個稀疏矩陣。
 7. 將稀疏矩陣重建為 co-occurrence matrix。
 8. 就可以畫出【共現圖】與【熱點圖】
-   a. 共現圖：https://pythondata.com/text-analytics-visualization/
-   b. 熱點圖：https://data-flair.training/blogs/python-heatmap-word-cloud/
+   + 共現圖：https://pythondata.com/text-analytics-visualization/
+   + 熱點圖：https://data-flair.training/blogs/python-heatmap-word-cloud/
