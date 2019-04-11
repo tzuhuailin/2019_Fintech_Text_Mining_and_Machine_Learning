@@ -8,6 +8,8 @@
 4. 將 TDM 轉成 Co-Occurrence Matrix。
 ## 資料視覺化
 5. 繪製出各類別之間的共現圖，例如：嫌疑犯和各犯罪行為之間的共現圖。
+*熱度圖 [occurrence network map](https://github.com/tzuhuailin/2019_Fintech_Text_Mining_and_Machine_Learning/blob/master/HW2/co-occurrence network map.png)
+*共線圖 [occurrence network map](https://github.com/tzuhuailin/2019_Fintech_Text_Mining_and_Machine_Learning/blob/master/HW2/co-occurrence%20network%20map.png)
 ----
 
 ## 探索式資料分析(Exploratory Data Abalysis, EDA)
