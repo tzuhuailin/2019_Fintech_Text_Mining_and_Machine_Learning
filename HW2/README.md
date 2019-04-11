@@ -9,8 +9,7 @@
 ## 資料視覺化
 5. 繪製出各類別之間的共現圖，例如：嫌疑犯和各犯罪行為之間的共現圖。
 * [熱度圖(程式末端)](https://github.com/tzuhuailin/2019_Fintech_Text_Mining_and_Machine_Learning/blob/master/HW2/Co-Occurrence%20Matrix.ipynb)
-* [Co-Occurrence network map](https://github.com/tzuhuailin/2019_Fintech_Text_Mining_and_Machine_Learning/blob/master/HW2/co-occurrence%20network%20map.png)
-##### Co-Occurrence network map是以Gephi製作
+* [Co-Occurrence network map](https://github.com/tzuhuailin/2019_Fintech_Text_Mining_and_Machine_Learning/blob/master/HW2/co-occurrence%20network%20map.png) : Co-Occurrence network map是以Gephi製作
 ----
 
 ## 探索式資料分析(Exploratory Data Abalysis, EDA)
