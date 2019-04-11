@@ -8,6 +8,8 @@
 4. 將 TDM 轉成 Co-Occurrence Matrix。
 ## 資料視覺化
 5. 繪製出各類別之間的共現圖，例如：嫌疑犯和各犯罪行為之間的共現圖。
+*熱度圖
+*共線圖 [Financial index crawler - code](https://github.com/tzuhuailin/2019_Fintech_Text_Mining_and_Machine_Learning/blob/master/HW2/Financial%20Index%20crawler%20new_US%20Non-farm%20Payrolls.ipynb)
 ----
 
 ## 探索式資料分析(Exploratory Data Abalysis, EDA)
