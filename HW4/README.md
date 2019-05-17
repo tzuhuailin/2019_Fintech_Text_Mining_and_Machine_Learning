@@ -8,6 +8,5 @@ HW4
 6. 因為作業要求分別算週報酬與月報酬，週報酬就留每一筆ETF週五的資料就好，月報酬就留每一筆的月底資料，然後再算報酬率。
 
 * 2009_JBF_Portfolio performance evaluation with generalized Sharpe ratios - ASKSR: 請用第 38 式
-第38式的ASKSR為改良Sharpe ratio，將超額溢酬的第三動差與第四動差納入考量。
-
-** 遇到的問題:
+ 第38式的ASKSR為改良Sharpe ratio，將超額溢酬的第三動差與第四動差納入考量。
+ 遇到的問題:
