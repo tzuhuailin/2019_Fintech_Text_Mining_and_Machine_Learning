@@ -18,6 +18,7 @@ HW4 ETF績效評比
 2. Omega也是改良Sharpe ratio的一種，但它的風險不是用變異數衡量而是以賠錢的時候平均賠多少為指標
 
 * 013_EL_A global index of riskiness: 請用 p.494 中之 Q(g)
-1. 概念: 
-E
+1. 概念: <br/>
+ E[ui(w+g)] > ui(w)
+
 
