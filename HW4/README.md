@@ -9,4 +9,5 @@ HW4
 
 * 2009_JBF_Portfolio performance evaluation with generalized Sharpe ratios - ASKSR: 請用第 38 式
 第38式的ASKSR為改良Sharpe ratio，將超額溢酬的第三動差與第四動差納入考量。
+
 ** 遇到的問題:
