@@ -1,4 +1,4 @@
-HW4
+HW4 ETF績效評比
 * 前置作業
 1. 報酬率(R_t)=(〖NAV〗_t-〖NAV〗_(t-1))/〖NAV〗_(t-1) 
 2. 風險溢酬(RP_t )=R_t-無風險利率(r_f)：因為承擔風險而產生的報酬
@@ -16,4 +16,7 @@ HW4
 * 2011_JBF_Omega performance measure and portfolio insurance: 請用第 8 式，L＝無風險利率
 1. Omega當中的報酬需代入未扣除無風險利率的原始報酬
 2. Omega也是改良Sharpe ratio的一種，但它的風險不是用變異數衡量而是以賠錢的時候平均賠多少為指標
+
+* 013_EL_A global index of riskiness: 請用 p.494 中之 Q(g)
+1. 概念: \
 
