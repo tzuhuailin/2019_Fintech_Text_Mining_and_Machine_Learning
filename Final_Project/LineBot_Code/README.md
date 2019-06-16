@@ -6,7 +6,7 @@
 
 確保您具有以下內容：
 
-- 擁有 Line 帳號
+- 擁有 [Line Developer](https://developers.line.biz/en/) 帳號
 - 擁有 [Heroku](https://www.heroku.com) 帳戶
 - 本專案所使用之 資料庫 host 和 password
 
@@ -21,4 +21,4 @@
 
 ## 參考資料
 
--更詳細之架設教學考參考 [Github](https://github.com/yaoandy107/line-bot-tutorial)
+-更詳細之架設教學請參考 [Github](https://github.com/yaoandy107/line-bot-tutorial)
