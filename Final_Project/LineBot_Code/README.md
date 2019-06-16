@@ -21,4 +21,4 @@
 
 ## 參考資料
 
--更詳細之架設教學考參考 Github(https://github.com/yaoandy107/line-bot-tutorial)
+-更詳細之架設教學考參考 [Github](https://github.com/yaoandy107/line-bot-tutorial)
